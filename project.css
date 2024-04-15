@@ -1,0 +1,204 @@
+.daun {
+    display: flex;
+    justify-content: space-around;
+}
+
+body {
+    background-color: #102542;
+    color: #cdd7d6;
+}
+
+.makaka {
+    margin-top: 1em;
+}
+
+.dflex {
+    display: flex;
+}
+
+.w50 {
+    width: 50%;
+}
+
+.main {
+    height: 800px;
+    align-items: center;
+    text-align: center;
+}
+
+a {
+    margin-right: 1em;
+    color: white;
+    text-decoration: none;
+    background-color: #d7ceb2;
+    padding: 7px 15px;
+    border-radius: 7px;
+}
+
+a:hover {
+    background-color: #a59e8c;
+    transition: 0.2s;
+}
+
+li {
+    margin-bottom: 20px;
+}
+
+body {
+    padding: 10px;
+}
+
+
+body {
+    margin: 0;
+    padding: 0;
+    font-family: Arial, sans-serif;
+    font-size: 16px;
+    line-height: 1.5;
+    background-color: #f2f2f2;
+}
+
+header {
+    display: flex;
+    align-items: center;
+    background-color: #242582;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);
+    position: absolute;
+    top: 0;
+    left: 0;
+    right: 0;
+    z-index: 9999;
+    padding: 20px;
+    margin-bottom: 100px;
+}
+
+nav {
+    flex: 1;
+    text-align: center;
+}
+
+nav ul {
+    margin: 0;
+    padding: 0;
+    list-style: none;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+nav li {
+    margin: 0 20px;
+}
+
+nav a {
+    color: #000;
+    text-decoration: none;
+    font-weight: bold;
+    padding: 10px 20px;
+    border-radius: 5px;
+    transition: all 0.2s ease-in-out;
+}
+
+nav a:hover {
+    color: #000;
+}
+
+footer {
+    margin-top: 12em;
+    position: absolute;
+    bottom: 100;
+    left: 0;
+    right: 0;
+}
+
+.lol {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+}
+
+.part2 img {
+    border-radius: 10%;
+    width: 350px;
+    height: 500px;
+}
+
+body {
+    background-color: #553D67;
+}
+
+.footer {   
+    align-items: center;
+    text-align: center;
+}
+
+.div1 {
+    margin: 10em;
+    margin-right: 1000px;
+    height: 100px;
+    display: flex;
+}
+
+.div2 {
+    margin-left: 1000px;
+    border-radius: 20%;
+
+}
+
+.div1 img {
+    border-radius: 10%;
+    width: 300px;
+    height: 200px;
+    margin-bottom: 100px;
+}
+
+.div3 {
+    margin-top: 5em;
+    margin-right:60%;
+    margin-left:10%;
+}
+
+.div3 img {
+    border-radius: 10%;
+    width: 350px;
+    height: 500px;
+    margin-left:10%;
+}
+
+.w-25 {
+    width: 25em;
+}
+
+.justify-around {
+    justify-content: space-around;
+}
+
+.mr-0 {
+    margin-right: 0;
+}
+.div4{
+    margin-top: 1px;
+    margin-left: 60%;
+    margin-right:10%;
+}
+.div4 img{
+    border-radius: 10%;
+    width:350px;
+    height:500px;
+}
+.div5 {
+    margin-top: 5px;
+    margin-right:60%;
+    margin-left:10%;
+}
+
+.div5 img {
+    border-radius: 10%;
+    width: 350px;
+    height: 500px;
+}
+.header{
+    display:flex;
+
+}
